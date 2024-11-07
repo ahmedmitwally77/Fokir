@@ -2,41 +2,35 @@
 # Hi, I'm Ahmed! 👋
 
 
-# Bakery
+# Fokir
 
-I'm excited to share my First website Task with Route about "Bakery Family". 😊🤎
+I'm thrilled to share that I've successfully completed my Second project at Route Academy About "Fokir Website"❤😍 
+The Fokir project is a static website built using HTML and CSS, utilizing techniques such as float, position, and transition.
 
-📌- Simple project Built By HTML & CSS .
+📌-Technologies Used:
+- HTML
+- CSS
+- Font Awesome for Icons
+- Google Fonts
+- Smooth Transitions and hover
+- Position
 
-It’s training on float & clear ,display: inline-block 
-
-📌-It’s Not Responsive ❌ 
+📌-It’s Not Responsive ❌
+I enjoyed working on this project, implementing various technologies to create a visually appealing and interactive website. The use of CSS animations and smooth transitions adds a touch of elegance to the user experience.
 
  Don't forget to give me your feedback ❤️
-
  
+🔗 Demo: 
+https://lnkd.in/dYaz5rkf
 
-
-
-
+🔗 Repo:
+https://lnkd.in/dFGs6-qW
 
 ------
 
-
-
-
-
-🔗 Demo: 
-
-https://ahmedmitwally77.github.io/Bakery/
-
-
-
-
-
-
-
-
+🔗 My account on GitHub :
+https://lnkd.in/dvei9dAh
+ 
 
 
 ## 🛠 Skills
@@ -51,5 +45,5 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./images/images/bakeryHomePage.png)
+![App Screenshot](./images/pages)
 
