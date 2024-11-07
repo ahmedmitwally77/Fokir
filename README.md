@@ -16,7 +16,8 @@ The Fokir project is a static website built using HTML and CSS, utilizing techni
 - Position
 
 📌-It’s Not Responsive ❌
-I enjoyed working on this project, implementing various technologies to create a visually appealing and interactive website. The use of CSS animations and smooth transitions adds a touch of elegance to the user experience.
+I enjoyed working on this project, implementing various technologies to create a visually appealing and interactive website. 
+The use of CSS animations and smooth transitions adds a touch of elegance to the user experience.
 
  Don't forget to give me your feedback ❤️
  
